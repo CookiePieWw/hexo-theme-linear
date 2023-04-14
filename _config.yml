@@ -48,3 +48,7 @@ counter:
 
 # google site verification
 verimeta:
+
+menu:
+  about: /about
+  posts: /_posts
